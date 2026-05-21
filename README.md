@@ -38,8 +38,10 @@ Features include:
 * LNDK integration
 * Self-hosted architecture
 
-Repo:
-https://github.com/Alex71btc/bolt12-pay-start9
+Repos:
+https://github.com/Alex71btc/lndk-pay
+https://github.com/Alex71btc/bolt12-pay-startos
+https://github.com/Alex71btc/umbrel-community-store/tree/master/alex-bolt12-pay
 
 ---
 
